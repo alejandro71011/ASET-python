@@ -669,7 +669,8 @@ while 1:
             elif menu3==5:
                 aset.clientesConPrestamo()
 
-#            elif menu3==6: <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+            elif menu3==6:
+                aset.montoPorDepartamento()
 
             elif menu3==7:
                 aset.montoPorTipo()
